@@ -82,14 +82,13 @@ SKELETON SCHEDULE
 
 Preference to eat at home when feasible  
 
-Breakfast  
-Overnight oats  
-
-Lunches  
-Cafe's nearby  
-
-Dinner  
-Tagine in local restaurants  
+| Meal      | Strategy                    |
+|-----------|-----------------------------|
+| Breakfast | Overnight oats              |
+|           |                             |
+| Lunches   | Cafe's nearby               |
+|           |                             |
+| Dinner    | Tagine in local restaurants |
 
 
 ## Activities
@@ -99,22 +98,29 @@ Tagine in local restaurants
 
 ## Preparatory Days
 
-D1 Thursday: Have a great day
+D1 Thu: High surf volume. Have a great day.  
+D2 Fri: Moderate surf volume. Beginning taper.  
+D3 Sat: Full recovery day. Micro surf's. Minimum volume.  
+
+PREPARATORY TRAINING SURFS
+
+Building house from breaking the wax to finding rhythm and then pushing the limits.  
+Heat training itself is not a priority. The work for this has already been done in advance.  
+
+1. High wave quantity and breaking the location. Wax the feet.  
+2. Finding rhythm and flow.  
+3. Pushing turns.  
 
 
 ## Contest Days
 
-Contest day 1  
+C1: 
 One to two heats.  
-Generally speaking the organisers prioritise finishing the earlier rounds as soon as possible.  
-This generally implies the first heats to surf will be on the first and second days.  
+Generally speaking the organisers prioritise finishing the earlier rounds as soon as possible. This generally implies the first heats to surf will be on the first and second days.  
+
+C2: 
 
 
-## Preparatory Training and Surf Focus
-
-1. High wave quantity and breaking the location. Wax the feet  
-2. Finding rhythm and flow.  
-3. Pushing turns.  
 
 
 ## Post Comp Technical Training
