@@ -59,9 +59,10 @@ Follow a skeleton routine and plan but be flexible around it and use it to preve
 
 ### Structure
 
-Agadir Daylight  
-06:40 - 18:50  
-07:40 - 19:50  
+| Agadir Daylight | Days     |
+|-----------------|----------|
+| 06:40 - 18:50   | Thu, Fri |
+| 07:40 - 19:50   | Sat ->   |
 
 
 SKELETON SCHEDULE
@@ -71,24 +72,38 @@ SKELETON SCHEDULE
 | 06:30 | ? Meditation 15m / mobility |
 | 06:45 | Breakfast                   |
 | 7:30  | Deploy                      |
+|       |                             |
 | 7:45  | SURF 1                      |
 | 10:00 | Break 1                     |
 |       |                             |
 | 20:15 | Meditation 15m              |
 | 20:30 | Lights out                  |
 
+COMP DAY
+
+| Time  | Objective                 |
+|-------|---------------------------|
+| 06:15 | Meditation 15m / mobility |
+|
+
 
 ## Meals
 
 Preference to eat at home when feasible  
 
-| Meal      | Strategy                    |
-|-----------|-----------------------------|
-| Breakfast | Overnight oats              |
-|           |                             |
-| Lunches   | Cafe's nearby               |
-|           |                             |
-| Dinner    | Tagine in local restaurants |
+| Meal      | Strategy                               |
+|-----------|----------------------------------------|
+| Breakfast | 1. Porridge/Cereal etc.  Eggs          |
+|           | 2. Overnight oats when leaving earlier |
+|           | 3. Late breakfast at local cafe        |
+| Lunches   | 1. Cafe's nearby                       |
+|           | 2. Return to apartment                 |
+| Dinner    | 1. Cooking                             |
+|           | 2. Tagine in local restaurants         |
+
+
+SHOPPING LIST
+
 
 
 ## Activities
@@ -117,7 +132,6 @@ Heat training itself is not a priority. The work for this has already been done 
 C1: 
 One to two heats.  
 Generally speaking the organisers prioritise finishing the earlier rounds as soon as possible. This generally implies the first heats to surf will be on the first and second days.  
-
 C2: 
 
 
@@ -125,25 +139,39 @@ C2:
 
 ## Post Comp Technical Training
 
-More stress / energy. Pushing the training type vibes. 2x Surfs daily.  
+More stress and energy. Pushing the training limits type vibes. 2x Surfs daily.  
 If it's all time pumping be open to a long day of non stop surfing.  
+Keeping awareness of the Tramore event.  
 
-1.  
+Athlete 1 
+```
 Point break lines  
 New bottom turns  
 Re-entry / top turn technique integrations
+```
 
-2.  
+Athlete 2  
+```
 Laybacks  
 Air reverses. Nose picks.  
 Compression.  
 Carve on critical section.  
+```
 
 
-## Where to Surf and When
+## Location Strategy
 
 Tides big or small?  
 
 Tamari if small. 1hr drive
 Next to Anza  
+
+
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/16MQxBAfQWZx8VpBSuQ41ha8N0HfuV2-4d04qbS-LBZc/edit?usp=sharing)
+
+<iframe 
+    src="https://docs.google.com/spreadsheets/d/16MQxBAfQWZx8VpBSuQ41ha8N0HfuV2-4d04qbS-LBZc/edit?usp=sharing" 
+    style="border: 0" width="600" height="1500" frameborder="0" scrolling="no">
+</iframe>
 
