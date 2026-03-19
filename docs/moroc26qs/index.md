@@ -31,7 +31,7 @@ Heat and sun exhaustion
 Too much time socialising, in athletes area, at contest venue, surfing crowded spots.  
 ```
 
-Athlete 2 Specific Priorities
+Athlete 2 suggested priorities
 ```
 Plan to avoid the feeling of being behind schedule
 Chill
@@ -130,12 +130,13 @@ Heat training itself is not a priority. The work for this has already been done 
 3. Pushing turns.  
 
 
-## Contest Days
+## Contest Day Outline
 
 C1: 
 One to two heats.  
 Generally speaking the organisers prioritise finishing the earlier rounds as soon as possible. This generally implies the first heats to surf will be on the first and second days.  
 C2: 
+
 
 
 
@@ -165,6 +166,7 @@ Carve on critical section.
 ## Location Strategy
 
 Tides big or small?  
+Spring tides until the following week  
 
 Tamari if small. 1hr drive
 Next to Anza  
