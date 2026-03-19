@@ -79,12 +79,15 @@ SKELETON SCHEDULE
 | 20:15 | Meditation 15m              |
 | 20:30 | Lights out                  |
 
-COMP DAY
+COMP DAYS EARLY SURF TEMPLATE
 
 | Time  | Objective                 |
 |-------|---------------------------|
-| 06:15 | Meditation 15m / mobility |
-|
+| 06:00 | Meditation 15m / mobility |
+| 07:15 | Deploy                    |
+| 07:30 | Surf 1                    |
+| 08:30 | Rest period               |
+
 
 
 ## Meals
