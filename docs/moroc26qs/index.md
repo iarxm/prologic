@@ -18,6 +18,7 @@ Priority A: Rest. Recovery. No stressful rushing
 
 Key factors to manage  
 
+```
 Athlete 1 suggested priorities
 Optimize sleep and rest  
 Minimize disorganisation and rushing  
@@ -30,12 +31,15 @@ Specific sources of stress
     Too much time in the competition area.  
     Too much time at the contest zone.  
     Too much time surfing crowded locations.  
+```
 
+```
 Athlete 2 Specific Priorities
 Plan to avoid the feeling of being behind schedule
 Chill
 Have a good support system around training and heats  
 Avoid being stuck in one place with nowhere else to surf
+```
 
 Antidotes  
 Be organized  
