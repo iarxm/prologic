@@ -59,12 +59,12 @@ Agadir Daylight
 
 Skeleton
 
-06:30 ? Wake 15m meditation / mobility
-      Breakfast
-7:30  Leave
+06:30 ? Meditation 15m / mobility  
+06:45 Breakfast  
+7:30  Deploy  
 
-20:15 Meditation
-20:30 Lights out
+20:15 Meditation 15m  
+20:30 Lights out  
 
 
 ## Meals
