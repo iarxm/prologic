@@ -137,3 +137,11 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+.VPDoc .content-container table {
+  width: 100%;
+  display: table;
+}
+
+.VPDoc .content-container {
+  max-width: none;
+}
