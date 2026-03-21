@@ -8,8 +8,12 @@ tags: []
 
 Plans are from meeting notes taken leading up to the event.  
 
+[HEAT SCHEDULER](https://docs.google.com/spreadsheets/d/1Mz6U1UYItgZbIRx0uvroPQ3fbUsVZX5AjCORPt6iRCA/edit?usp=drivesdk)  
+[ONEDRIVE URLS](https://wbyyte-my.sharepoint.com/:f:/g/personal/mail_iarom_org/IgDPaL7VkXBbSKJZW0g0uKBLAUb3NdPouiIx6qYrs5DzddU?e=WZrRFL)  
+[CLIPS GDRIVE](https://drive.google.com/drive/folders/1pAPRgteo27AA7TGvnehbD2rni8akm2k4)  
 
-PRIORITIES  
+
+CONTEST PREPARATION PRIORITIES  
 Priority A: Rest. Recovery. No stressful rushing  
 
 
@@ -128,6 +132,7 @@ Heat training itself is not a priority. The work for this has already been done 
 1. High wave quantity and breaking the location. Wax the feet.  
 2. Finding rhythm and flow.  
 3. Pushing turns.  
+4. Establishing good turns within personal mastery.  
 
 
 ## Contest Day Outline
