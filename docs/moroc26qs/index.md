@@ -14,48 +14,12 @@ Plans are from meeting notes taken leading up to the event.
 
 
 CONTEST PREPARATION PRIORITIES  
-Priority A: Rest. Recovery. No stressful rushing  
+Priority A: Tapering. Minimize Stress.
+Priority B: Finding Rhythm And Flow.  
+Priority B: Building Confidence.  
+Priority C: Developing Strategic-Cognitive Flexibility.  
 
 
-## Psychological Optimisation
-
-Key factors to manage in preparation for content days.    
-
-Athlete 1 suggested priorities  
-```
-Optimize sleep and rest  
-
-Minimize disorganisation and rushing  
-    Meals  
-    Surf plans  
-    Avoid rushing. For example in evening to decide on dinner  
-
-Specific sources of stress:  
-Heat and sun exhaustion    
-Too much time socialising, in athletes area, at contest venue, surfing crowded spots.  
-```
-
-Athlete 2 suggested priorities
-```
-Plan to avoid the feeling of being behind schedule
-Chill
-Have a good support system around training and heats  
-Avoid being stuck in one place with nowhere else to surf
-```
-
-Antidotes  
-```
-Be organized  
-Find and specify relaxing areas in advance.  
-Check in at regular intervals throughout each day.  
-    Reflect on specific aspects of the day/context  
-        Stress levels  
-        Nutrition/calories  
-        Time recovering and relaxing  
-Good music  
-Short meditations / yoga nidra's  
-Plan around the weather/sun  
-```
 
 ## Scheduling
 
@@ -112,6 +76,46 @@ Preference to eat at home when feasible
 SHOPPING LIST
 
 
+## Psychological Optimisation
+
+Key factors to manage in preparation for content days.  
+
+Athlete 1 suggested priorities  
+```
+Optimize sleep and rest  
+
+Minimize disorganisation and rushing  
+    Meals  
+    Surf plans  
+    Avoid rushing. For example in evening to decide on dinner  
+
+Specific sources of stress:  
+Heat and sun exhaustion    
+Too much time socialising, in athletes area, at contest venue, surfing crowded spots.  
+```
+
+Athlete 2 suggested priorities
+```
+Plan to avoid the feeling of being behind schedule
+Chill
+Have a good support system around training and heats  
+Avoid being stuck in one place with nowhere else to surf
+```
+
+Antidotes  
+```
+Be organized  
+Find and specify relaxing areas in advance.  
+Check in at regular intervals throughout each day.  
+    Reflect on specific aspects of the day/context  
+        Stress levels  
+        Nutrition/calories  
+        Time recovering and relaxing  
+Good music  
+Short meditations / yoga nidra's  
+Plan around the weather/sun  
+```
+
 
 ## Activities
 
@@ -141,8 +145,6 @@ C1:
 One to two heats.  
 Generally speaking the organisers prioritise finishing the earlier rounds as soon as possible. This generally implies the first heats to surf will be on the first and second days.  
 C2: 
-
-
 
 
 
@@ -177,11 +179,21 @@ Tamari if small. 1hr drive
 Next to Anza  
 
 
+## Day Scheduler
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/16MQxBAfQWZx8VpBSuQ41ha8N0HfuV2-4d04qbS-LBZc/edit?usp=sharing)
 
 <iframe 
     src="https://docs.google.com/spreadsheets/d/16MQxBAfQWZx8VpBSuQ41ha8N0HfuV2-4d04qbS-LBZc/edit?usp=sharing" 
-    style="border: 0" width="600" height="1500" frameborder="0" scrolling="no">
+    style="border: 0" width="600" height="1000" frameborder="0" scrolling="no">
 </iframe>
+
+
+## Heat Scheduler
+
+<iframe 
+    src="https://docs.google.com/spreadsheets/d/1Mz6U1UYItgZbIRx0uvroPQ3fbUsVZX5AjCORPt6iRCA/edit?usp=drivesdk" 
+    style="border: 0" width="600" height="1000" frameborder="0" scrolling="no">
+</iframe>
+
 
