@@ -187,7 +187,7 @@ Next to Anza
 
 <iframe 
     src="https://docs.google.com/spreadsheets/d/16MQxBAfQWZx8VpBSuQ41ha8N0HfuV2-4d04qbS-LBZc/edit?usp=sharing" 
-    style="border: 0" width="600" height="1000" frameborder="0" scrolling="no">
+    style="border: 0" width="700" height="1000" frameborder="0" scrolling="no">
 </iframe>
 
 
@@ -195,7 +195,7 @@ Next to Anza
 
 <iframe 
     src="https://docs.google.com/spreadsheets/d/1Mz6U1UYItgZbIRx0uvroPQ3fbUsVZX5AjCORPt6iRCA/edit?usp=drivesdk" 
-    style="border: 0" width="600" height="1000" frameborder="0" scrolling="no">
+    style="border: 0" width="700" height="1000" frameborder="0" scrolling="no">
 </iframe>
 
 
