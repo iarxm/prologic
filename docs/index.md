@@ -8,13 +8,13 @@ hero:
   actions:
     - theme: brand
       text: 2026 Morocco QS
-      link: /26mor-qs/logic
+      link: /26qs-mor/logic
             #- theme: alt
             #text: Day Plans
-            #link: /26mor-qs/days
+            #link: /26qs-mor/days
             #- theme: alt
             #text: Round-Heat Timelines
-            #link: /26mor-qs/schedules
+            #link: /26qs-mor/schedules
 
 features:
   - title: Principles

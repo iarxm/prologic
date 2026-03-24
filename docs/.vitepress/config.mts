@@ -8,7 +8,7 @@ const vitePressOptions = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/26qs-mor/index' },
+      { text: 'Docs', link: '/prin/logic' },
     ],
     outline: [2,4],
     repo: 'iarxm/wsl-logi',
