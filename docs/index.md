@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 2026 Morocco QS
-      link: /26mor-qs/index
+      link: /26mor-qs/logic
             #- theme: alt
             #text: Day Plans
             #link: /26mor-qs/days
