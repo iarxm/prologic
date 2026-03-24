@@ -1,23 +1,25 @@
 ---
 layout: home
 hero:
-  name: WSL Event Athletes Logistics
-  text: "Logistics site for operating on WSL tours"
-  tagline: "Who's carrying the boats?"
+  name: Pro Surf Team Logic
+  text: "Logistics and principles for operating as a team on pro surf tours"
   image:
     #src: /img/logo.png_disable
   actions:
     - theme: brand
-      text: Morocco QS
-      link: /moroc26qs/index
-    - theme: alt
-      text: Day Plans
-      link: /moroc26qs/days
-    - theme: alt
-      text: Round-Heat Timelines
-      link: /moroc26qs/schedules
+      text: Morocco QS 2026
+      link: /mor26qs/logic
+            #- theme: alt
+            #text: Day Plans
+            #link: /mor26qs/days
+            #- theme: alt
+            #text: Round-Heat Timelines
+            #link: /mor26qs/schedules
 
 features:
+  - title: Principles
+    details: Core principles for planning and prioritising
+
   - title: Schedules
     details: Basic daily to weekly scheduling to maximise performance opportunities
 

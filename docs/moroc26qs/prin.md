@@ -1,27 +1,9 @@
----
-id: morocco2026
-aliases: []
-tags: []
----
-
-# Logistics
-
-Plans are from meeting notes taken leading up to the event.  
-
-[TRAINING SCHEDULER](https://docs.google.com/spreadsheets/d/16MQxBAfQWZx8VpBSuQ41ha8N0HfuV2-4d04qbS-LBZc/edit?usp=sharing)  
-[CLIPS](https://wbyyte-my.sharepoint.com/:f:/g/personal/mail_iarom_org/IgD0W6X8QonBR4kne-nb2F0pAYcqit8kZs8QxG8BqigwtA0?e=naCqRA)  
-
-
-### Contest Preparation Priorities
-
-Priority 0: Getting Organized.  
-Priority A: Tapering. Minimize Stress.  
-Priority B: Finding Rhythm And Flow.  
-Priority B: Building Confidence, developing turns.  
-Priority C: Developing Strategic-Cognitive Flexibility.  
-
+# Principles
 
 ## Project Structure
+
+The first part of the weekly plan is about getting organized for the week ahead. Then contest preparation will be underway, followed by the contest itself. After the contest, the remaining days will be utilized for contest review, contest recovery, followed by surf training. If there are heats still to watch, they can be utilized for technical inspiration.  
+
 
 ### Scheduling
 
@@ -90,6 +72,15 @@ Dinosaur archaeological site
 
 ## Contest Specific
 
+### Contest Preparation Priorities
+
+Priority 0: Getting Organized.  
+Priority A: Tapering. Minimize Stress.  
+Priority B: Finding Rhythm And Flow.  
+Priority B: Building Confidence, developing turns.  
+Priority C: Developing Strategic-Cognitive Flexibility.  
+
+
 ### Psychological Optimisation
 
 Key factors to manage in preparation for content days.  
@@ -116,7 +107,7 @@ Have a good support system around training and heats
 Avoid being stuck in one place with nowhere else to surf
 ```
 
-Antidotes  
+Solutions  
 ```
 Be organized  
 Find and specify relaxing areas in advance.  
@@ -156,7 +147,7 @@ Generally speaking the organisers prioritise finishing the earlier rounds as soo
 C2: 
 
 
-### Training Location Strategy
+## Training Location Strategies
 
 Tides big or small?  
 Spring tides until the following week  
@@ -171,6 +162,7 @@ More stress and energy. Pushing the training limits type vibes. 2x Surfs daily.
 If it's all time pumping be open to a long day of non stop surfing.  
 Keeping awareness of the Tramore event.  
 
+[Move below elsewhere]  
 Athlete 1 
 ```
 Point break lines  
@@ -186,30 +178,4 @@ Compression.
 Carve on critical section.  
 ```
 
-
-
-## Embedded Visual Tools
-
-### Day Scheduler
-
-[Spreadsheet](https://docs.google.com/spreadsheets/d/16MQxBAfQWZx8VpBSuQ41ha8N0HfuV2-4d04qbS-LBZc/edit?usp=sharing)
-
-<iframe 
-    src="https://docs.google.com/spreadsheets/d/16MQxBAfQWZx8VpBSuQ41ha8N0HfuV2-4d04qbS-LBZc/edit?usp=sharing" 
-    style="border: 0" width="700" height="1000" frameborder="0" scrolling="no">
-</iframe>
-
-
-### Heat Scheduler
-
-<iframe 
-    src="https://docs.google.com/spreadsheets/d/1Mz6U1UYItgZbIRx0uvroPQ3fbUsVZX5AjCORPt6iRCA/edit?usp=drivesdk" 
-    style="border: 0" width="700" height="1000" frameborder="0" scrolling="no">
-</iframe>
-
-
-## Tools
-
-[CLIPS GDRIVE](https://drive.google.com/drive/folders/1pAPRgteo27AA7TGvnehbD2rni8akm2k4)  
-[HEAT SCHEDULER](https://docs.google.com/spreadsheets/d/1Mz6U1UYItgZbIRx0uvroPQ3fbUsVZX5AjCORPt6iRCA/edit?usp=drivesdk)  
 
