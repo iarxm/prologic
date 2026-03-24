@@ -45,7 +45,6 @@ COMP DAYS VERY EARLY SURF [TEMPLATE]
 | 08:30 | Rest period               |
 
 
-
 ### Meals
 
 Preference to eat at home when feasible  
@@ -177,5 +176,4 @@ Air reverses. Nose picks.
 Compression.  
 Carve on critical section.  
 ```
-
 

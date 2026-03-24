@@ -9,7 +9,7 @@ Plans are from meeting notes taken leading up to the event.
 
 [TRAINING SCHEDULER](https://docs.google.com/spreadsheets/d/16MQxBAfQWZx8VpBSuQ41ha8N0HfuV2-4d04qbS-LBZc/edit?usp=sharing)  
 [CLIPS](https://wbyyte-my.sharepoint.com/:f:/g/personal/mail_iarom_org/IgD0W6X8QonBR4kne-nb2F0pAYcqit8kZs8QxG8BqigwtA0?e=naCqRA)  
-[PROGRAMMING PRINCIPLES](mor26qs/prin)  
+[PROGRAMMING PRINCIPLES](/26qs-mor/prin)  
 
 
 ## Embedded Visual Tools

@@ -7,14 +7,14 @@ hero:
     #src: /img/logo.png_disable
   actions:
     - theme: brand
-      text: Morocco QS 2026
-      link: /mor26qs/logic
+      text: 2026 Morocco QS
+      link: /26mor-qs/index
             #- theme: alt
             #text: Day Plans
-            #link: /mor26qs/days
+            #link: /26mor-qs/days
             #- theme: alt
             #text: Round-Heat Timelines
-            #link: /mor26qs/schedules
+            #link: /26mor-qs/schedules
 
 features:
   - title: Principles

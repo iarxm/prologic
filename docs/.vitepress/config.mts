@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress';
 import { withSidebar } from 'vitepress-sidebar';
 
 const vitePressOptions = {
-  title: "WSL LOGIC",
-  description: "WSL event logistics for athletes",
+  title: "PRO LOGIC",
+  description: "Pro event logistics for surf teams",
   base: "/wsl-logi/",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/moroc26qs/index' },
+      { text: 'Docs', link: '/26qs-mor/index' },
     ],
     outline: [2,4],
     repo: 'iarxm/wsl-logi',
