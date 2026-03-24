@@ -14,10 +14,6 @@ Plans are from meeting notes taken leading up to the event.
 
 ## Embedded Visual Tools
 
-### Tools
-
-[CLIPS GDRIVE](https://drive.google.com/drive/folders/1pAPRgteo27AA7TGvnehbD2rni8akm2k4)  
-[HEAT SCHEDULER](https://docs.google.com/spreadsheets/d/1Mz6U1UYItgZbIRx0uvroPQ3fbUsVZX5AjCORPt6iRCA/edit?usp=drivesdk)  
 
 ### Day Scheduler
 
@@ -35,4 +31,10 @@ Plans are from meeting notes taken leading up to the event.
     src="https://docs.google.com/spreadsheets/d/1Mz6U1UYItgZbIRx0uvroPQ3fbUsVZX5AjCORPt6iRCA/edit?usp=drivesdk" 
     style="border: 0" width="700" height="1000" frameborder="0" scrolling="no">
 </iframe>
+
+
+### Other Tools
+
+[CLIPS GDRIVE](https://drive.google.com/drive/folders/1pAPRgteo27AA7TGvnehbD2rni8akm2k4)  
+[HEAT SCHEDULER](https://docs.google.com/spreadsheets/d/1Mz6U1UYItgZbIRx0uvroPQ3fbUsVZX5AjCORPt6iRCA/edit?usp=drivesdk)  
 
