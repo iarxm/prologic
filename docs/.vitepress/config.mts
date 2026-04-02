@@ -24,9 +24,11 @@ const vitePressSidebarOptions = {
   capitalizeFirst: true,
   useTitleFromFrontmatter: true,
   useTitleFromFileHeading: true,
+  useFolderTitleFromIndexFile: true,
   // useTitleFromFrontmatter: true,
 };
 export default defineConfig(withSidebar(vitePressOptions, vitePressSidebarOptions));
+
     //autosidebar
     //sidebar: getSidebar({ 
     //        contentRoot: '/docs', 
@@ -49,3 +51,4 @@ export default defineConfig(withSidebar(vitePressOptions, vitePressSidebarOption
     //    ]
     //  }
     //],
+
