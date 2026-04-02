@@ -10,7 +10,7 @@ The first part of the weekly plan is about getting organized for the week ahead.
 Follow a skeleton routine and plan but be flexible around it and use it to prevent drift in core priorities.  
 
 
-DAYLIGHT HOURS  
+DAYLIGHT HOURS 2026 03 
 
 | Agadir Daylight | Days     |
 |-----------------|----------|
