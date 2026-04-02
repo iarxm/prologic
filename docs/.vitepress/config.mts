@@ -4,17 +4,17 @@ import { withSidebar } from 'vitepress-sidebar';
 const vitePressOptions = {
   title: "PRO LOGIC",
   description: "Pro event logistics for surf teams",
-  base: "/wsl-logi/",
+  base: "/prologic/",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Docs', link: '/prin/logic' },
     ],
     outline: [2,4],
-    repo: 'iarxm/wsl-logi',
+    repo: 'iarxm/prologic',
     logo: '/img/logo.png',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/iarxm/wsl-logi' }
+      { icon: 'github', link: 'https://github.com/iarxm/prologic' }
     ]
   }
 };
